@@ -6,3 +6,5 @@ no way to loose
 
 
 Hello from Simon
+
+Conflict by Simon
